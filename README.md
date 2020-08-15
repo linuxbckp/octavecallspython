@@ -1,2 +1,2 @@
 # Octave Calls Python
-Let Octave Calls Python Scripts
+Let Octave Call Python Scripts
