@@ -36,5 +36,10 @@ def correct_flow():
           with open("/home/test/Desktop/testfile2","a") as f2:
           f2.write(mark)
 
+def wrong_flow():
+ # see what will get by octave hook when python script runs failed
+    any_wrong_grammer_here
+
 if __name__=="__main__":
     correct_flow()
+    # wrong_flow()
